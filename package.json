@@ -1,3 +1,6 @@
 {
-  "name": "basic-tailwind-cli"
+  "name": "basic-tailwind-cli",
+  "devDependencies": {
+    "tailwindcss": "^3.0.1"
+  }
 }
